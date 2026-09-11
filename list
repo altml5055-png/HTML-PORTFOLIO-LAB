@@ -1,1 +1,13 @@
-
+<html>
+    <head>
+        <title>List</title>
+    </head>
+    <body>
+        <h1>LIST</h1>
+        <p>There are two types of list</p>
+        <h2>ORDERED LIST</h2>
+        <ol>
+            <li>Apple</li>
+            <li>Ball<li>
+            <li>Cat</li>
+         </ol>
